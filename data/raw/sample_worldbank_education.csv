@@ -1,0 +1,1201 @@
+country_code,country,year,indicator_code,indicator,value
+BRA,Brazil,2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,88.82
+BRA,Brazil,2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,89.23
+BRA,Brazil,2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,88.37
+BRA,Brazil,2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,89.43
+BRA,Brazil,2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,89.59
+BRA,Brazil,2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,90.18
+BRA,Brazil,2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,90.08
+BRA,Brazil,2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,90.46
+BRA,Brazil,2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+BRA,Brazil,2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,91.08
+BRA,Brazil,2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,90.88
+BRA,Brazil,2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,91.66
+BRA,Brazil,2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,91.23
+BRA,Brazil,2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+BRA,Brazil,2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.02
+BRA,Brazil,2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.93
+BRA,Brazil,2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.1
+BRA,Brazil,2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.77
+BRA,Brazil,2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.7
+BRA,Brazil,2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.65
+BRA,Brazil,2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.5
+BRA,Brazil,2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.96
+BRA,Brazil,2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.38
+BRA,Brazil,2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.92
+BRA,Brazil,2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+BRA,Brazil,2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+BRA,Brazil,2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+BRA,Brazil,2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+BRA,Brazil,2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+BRA,Brazil,2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+BRA,Brazil,2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+BRA,Brazil,2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+BRA,Brazil,2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.67
+BRA,Brazil,2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.33
+BRA,Brazil,2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.36
+BRA,Brazil,2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.29
+BRA,Brazil,2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.89
+BRA,Brazil,2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.48
+BRA,Brazil,2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.36
+BRA,Brazil,2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.58
+BRA,Brazil,2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.45
+BRA,Brazil,2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.83
+BRA,Brazil,2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+BRA,Brazil,2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.07
+BRA,Brazil,2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.81
+BRA,Brazil,2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.64
+BRA,Brazil,2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,7.17
+BRA,Brazil,2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,7.18
+BRA,Brazil,2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+BRA,Brazil,2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,103.92
+BRA,Brazil,2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,105.06
+BRA,Brazil,2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,105.2
+BRA,Brazil,2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,105.66
+BRA,Brazil,2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,105.88
+BRA,Brazil,2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,106.32
+BRA,Brazil,2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,107.49
+BRA,Brazil,2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,107.77
+BRA,Brazil,2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,107.81
+BRA,Brazil,2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.53
+BRA,Brazil,2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,109.04
+BRA,Brazil,2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,110.04
+BRA,Brazil,2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,109.44
+BRA,Brazil,2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,110.39
+BRA,Brazil,2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,111.08
+BRA,Brazil,2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,111.79
+BRA,Brazil,2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,111.39
+BRA,Brazil,2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,111.94
+BRA,Brazil,2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+BRA,Brazil,2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,112.41
+BRA,Brazil,2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+BRA,Brazil,2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,114.7
+BRA,Brazil,2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,114.52
+BRA,Brazil,2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,95.15
+BRA,Brazil,2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,96.12
+BRA,Brazil,2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+BRA,Brazil,2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.78
+BRA,Brazil,2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.74
+BRA,Brazil,2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.58
+BRA,Brazil,2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.68
+BRA,Brazil,2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+BRA,Brazil,2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,99.4
+BRA,Brazil,2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,99.66
+BRA,Brazil,2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,101.35
+BRA,Brazil,2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,101.29
+BRA,Brazil,2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,101.77
+BRA,Brazil,2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,101.79
+BRA,Brazil,2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,102.04
+BRA,Brazil,2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,102.57
+BRA,Brazil,2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,102.69
+BRA,Brazil,2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,104.28
+BRA,Brazil,2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,104.05
+BRA,Brazil,2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,105.07
+BRA,Brazil,2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,104.84
+BRA,Brazil,2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,105.62
+BRA,Brazil,2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,105.97
+BRA,Brazil,2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,105.8
+BRA,Brazil,2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,46.69
+BRA,Brazil,2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,46.3
+BRA,Brazil,2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,46.46
+BRA,Brazil,2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,47.61
+BRA,Brazil,2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,47.8
+BRA,Brazil,2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,48.39
+BRA,Brazil,2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,48.74
+BRA,Brazil,2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,48.33
+BRA,Brazil,2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,49.26
+BRA,Brazil,2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,49.7
+BRA,Brazil,2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,50.87
+BRA,Brazil,2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,50.96
+BRA,Brazil,2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,51.6
+BRA,Brazil,2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,51.72
+BRA,Brazil,2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,52.52
+BRA,Brazil,2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,52.69
+BRA,Brazil,2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,53.11
+BRA,Brazil,2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+BRA,Brazil,2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,54.14
+BRA,Brazil,2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,55.56
+BRA,Brazil,2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,54.66
+BRA,Brazil,2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,54.86
+BRA,Brazil,2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+BRA,Brazil,2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,56.06
+ARG,Argentina,2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.14
+ARG,Argentina,2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.63
+ARG,Argentina,2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.98
+ARG,Argentina,2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.8
+ARG,Argentina,2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.5
+ARG,Argentina,2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.1
+ARG,Argentina,2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.86
+ARG,Argentina,2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+ARG,Argentina,2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.25
+ARG,Argentina,2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.14
+ARG,Argentina,2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.4
+ARG,Argentina,2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.72
+ARG,Argentina,2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+ARG,Argentina,2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+ARG,Argentina,2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+ARG,Argentina,2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.94
+ARG,Argentina,2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.86
+ARG,Argentina,2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.87
+ARG,Argentina,2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+ARG,Argentina,2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.91
+ARG,Argentina,2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.63
+ARG,Argentina,2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.74
+ARG,Argentina,2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+ARG,Argentina,2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+ARG,Argentina,2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+ARG,Argentina,2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.27
+ARG,Argentina,2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.56
+ARG,Argentina,2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.21
+ARG,Argentina,2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.08
+ARG,Argentina,2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.2
+ARG,Argentina,2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.99
+ARG,Argentina,2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.41
+ARG,Argentina,2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.72
+ARG,Argentina,2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.0
+ARG,Argentina,2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.49
+ARG,Argentina,2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.25
+ARG,Argentina,2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.98
+ARG,Argentina,2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.97
+ARG,Argentina,2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.43
+ARG,Argentina,2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.77
+ARG,Argentina,2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.1
+ARG,Argentina,2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.83
+ARG,Argentina,2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.63
+ARG,Argentina,2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.1
+ARG,Argentina,2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.11
+ARG,Argentina,2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.93
+ARG,Argentina,2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.3
+ARG,Argentina,2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.39
+ARG,Argentina,2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,106.97
+ARG,Argentina,2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,106.89
+ARG,Argentina,2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,107.46
+ARG,Argentina,2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,106.89
+ARG,Argentina,2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+ARG,Argentina,2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,107.62
+ARG,Argentina,2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,107.84
+ARG,Argentina,2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,107.82
+ARG,Argentina,2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,107.97
+ARG,Argentina,2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,107.07
+ARG,Argentina,2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+ARG,Argentina,2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.69
+ARG,Argentina,2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.54
+ARG,Argentina,2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.63
+ARG,Argentina,2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.49
+ARG,Argentina,2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.61
+ARG,Argentina,2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.54
+ARG,Argentina,2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.85
+ARG,Argentina,2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.38
+ARG,Argentina,2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,109.49
+ARG,Argentina,2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,108.67
+ARG,Argentina,2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,109.44
+ARG,Argentina,2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,109.73
+ARG,Argentina,2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+ARG,Argentina,2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,106.93
+ARG,Argentina,2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,105.3
+ARG,Argentina,2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+ARG,Argentina,2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,106.82
+ARG,Argentina,2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,105.9
+ARG,Argentina,2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,106.18
+ARG,Argentina,2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,106.81
+ARG,Argentina,2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,106.13
+ARG,Argentina,2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,106.82
+ARG,Argentina,2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+ARG,Argentina,2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+ARG,Argentina,2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+ARG,Argentina,2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,106.92
+ARG,Argentina,2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,107.38
+ARG,Argentina,2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,107.24
+ARG,Argentina,2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+ARG,Argentina,2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,107.93
+ARG,Argentina,2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,107.18
+ARG,Argentina,2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+ARG,Argentina,2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,108.2
+ARG,Argentina,2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,108.08
+ARG,Argentina,2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+ARG,Argentina,2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,107.89
+ARG,Argentina,2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,108.26
+ARG,Argentina,2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,93.04
+ARG,Argentina,2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,92.86
+ARG,Argentina,2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,92.84
+ARG,Argentina,2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,93.62
+ARG,Argentina,2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+ARG,Argentina,2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+ARG,Argentina,2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,93.55
+ARG,Argentina,2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+ARG,Argentina,2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,93.59
+ARG,Argentina,2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,93.64
+ARG,Argentina,2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,93.92
+ARG,Argentina,2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,94.24
+ARG,Argentina,2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,94.06
+ARG,Argentina,2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,94.73
+ARG,Argentina,2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,94.85
+ARG,Argentina,2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,94.45
+ARG,Argentina,2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+ARG,Argentina,2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,94.73
+ARG,Argentina,2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.23
+ARG,Argentina,2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.03
+ARG,Argentina,2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.13
+ARG,Argentina,2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,94.46
+ARG,Argentina,2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+ARG,Argentina,2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.18
+CHL,Chile,2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.84
+CHL,Chile,2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.69
+CHL,Chile,2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.59
+CHL,Chile,2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.1
+CHL,Chile,2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.43
+CHL,Chile,2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.15
+CHL,Chile,2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.39
+CHL,Chile,2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.49
+CHL,Chile,2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.58
+CHL,Chile,2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.44
+CHL,Chile,2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.56
+CHL,Chile,2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+CHL,Chile,2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+CHL,Chile,2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.24
+CHL,Chile,2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.38
+CHL,Chile,2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+CHL,Chile,2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.0
+CHL,Chile,2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.5
+CHL,Chile,2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+CHL,Chile,2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.06
+CHL,Chile,2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.37
+CHL,Chile,2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.33
+CHL,Chile,2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.08
+CHL,Chile,2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+CHL,Chile,2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+CHL,Chile,2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.17
+CHL,Chile,2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.56
+CHL,Chile,2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.11
+CHL,Chile,2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.33
+CHL,Chile,2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.66
+CHL,Chile,2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.98
+CHL,Chile,2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.8
+CHL,Chile,2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.86
+CHL,Chile,2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+CHL,Chile,2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.97
+CHL,Chile,2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.68
+CHL,Chile,2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+CHL,Chile,2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.83
+CHL,Chile,2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.9
+CHL,Chile,2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.0
+CHL,Chile,2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.48
+CHL,Chile,2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.98
+CHL,Chile,2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.15
+CHL,Chile,2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.42
+CHL,Chile,2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.57
+CHL,Chile,2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.6
+CHL,Chile,2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.7
+CHL,Chile,2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+CHL,Chile,2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,93.97
+CHL,Chile,2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,94.32
+CHL,Chile,2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,94.96
+CHL,Chile,2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,94.84
+CHL,Chile,2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,95.42
+CHL,Chile,2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+CHL,Chile,2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,95.9
+CHL,Chile,2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.18
+CHL,Chile,2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.93
+CHL,Chile,2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.6
+CHL,Chile,2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.04
+CHL,Chile,2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,97.18
+CHL,Chile,2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,97.89
+CHL,Chile,2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,97.43
+CHL,Chile,2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.29
+CHL,Chile,2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.01
+CHL,Chile,2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.53
+CHL,Chile,2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.93
+CHL,Chile,2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.89
+CHL,Chile,2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.49
+CHL,Chile,2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.1
+CHL,Chile,2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.51
+CHL,Chile,2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.11
+CHL,Chile,2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.65
+CHL,Chile,2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+CHL,Chile,2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+CHL,Chile,2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,94.19
+CHL,Chile,2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,94.33
+CHL,Chile,2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,94.88
+CHL,Chile,2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+CHL,Chile,2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,95.55
+CHL,Chile,2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+CHL,Chile,2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,96.51
+CHL,Chile,2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,96.89
+CHL,Chile,2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,96.84
+CHL,Chile,2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,96.88
+CHL,Chile,2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.24
+CHL,Chile,2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.74
+CHL,Chile,2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.08
+CHL,Chile,2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.42
+CHL,Chile,2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,99.03
+CHL,Chile,2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.5
+CHL,Chile,2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,100.22
+CHL,Chile,2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,99.57
+CHL,Chile,2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,100.25
+CHL,Chile,2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,99.79
+CHL,Chile,2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,100.67
+CHL,Chile,2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,101.64
+CHL,Chile,2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+CHL,Chile,2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+CHL,Chile,2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,85.25
+CHL,Chile,2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,86.39
+CHL,Chile,2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,85.52
+CHL,Chile,2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,86.14
+CHL,Chile,2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,86.77
+CHL,Chile,2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,86.45
+CHL,Chile,2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.19
+CHL,Chile,2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,88.01
+CHL,Chile,2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.71
+CHL,Chile,2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,88.63
+CHL,Chile,2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.55
+CHL,Chile,2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.06
+CHL,Chile,2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.53
+CHL,Chile,2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.0
+CHL,Chile,2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.63
+CHL,Chile,2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+CHL,Chile,2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.22
+CHL,Chile,2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.83
+CHL,Chile,2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,91.38
+CHL,Chile,2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+CHL,Chile,2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+CHL,Chile,2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,91.53
+MEX,Mexico,2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+MEX,Mexico,2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,91.46
+MEX,Mexico,2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.47
+MEX,Mexico,2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,91.86
+MEX,Mexico,2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.31
+MEX,Mexico,2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+MEX,Mexico,2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+MEX,Mexico,2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.84
+MEX,Mexico,2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.47
+MEX,Mexico,2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.13
+MEX,Mexico,2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.41
+MEX,Mexico,2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,92.71
+MEX,Mexico,2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.43
+MEX,Mexico,2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.09
+MEX,Mexico,2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,93.69
+MEX,Mexico,2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.5
+MEX,Mexico,2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.72
+MEX,Mexico,2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+MEX,Mexico,2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+MEX,Mexico,2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.38
+MEX,Mexico,2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.6
+MEX,Mexico,2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.97
+MEX,Mexico,2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.59
+MEX,Mexico,2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.44
+MEX,Mexico,2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+MEX,Mexico,2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+MEX,Mexico,2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+MEX,Mexico,2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+MEX,Mexico,2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+MEX,Mexico,2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+MEX,Mexico,2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+MEX,Mexico,2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+MEX,Mexico,2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.24
+MEX,Mexico,2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.48
+MEX,Mexico,2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.29
+MEX,Mexico,2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.84
+MEX,Mexico,2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.6
+MEX,Mexico,2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.85
+MEX,Mexico,2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.76
+MEX,Mexico,2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.57
+MEX,Mexico,2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+MEX,Mexico,2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.97
+MEX,Mexico,2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.6
+MEX,Mexico,2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.97
+MEX,Mexico,2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.87
+MEX,Mexico,2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.35
+MEX,Mexico,2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.2
+MEX,Mexico,2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+MEX,Mexico,2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,97.4
+MEX,Mexico,2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,97.76
+MEX,Mexico,2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,97.36
+MEX,Mexico,2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.19
+MEX,Mexico,2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.91
+MEX,Mexico,2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.7
+MEX,Mexico,2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.97
+MEX,Mexico,2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.37
+MEX,Mexico,2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.9
+MEX,Mexico,2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.9
+MEX,Mexico,2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.34
+MEX,Mexico,2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.96
+MEX,Mexico,2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.01
+MEX,Mexico,2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.09
+MEX,Mexico,2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.16
+MEX,Mexico,2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.26
+MEX,Mexico,2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,103.09
+MEX,Mexico,2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,103.11
+MEX,Mexico,2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.85
+MEX,Mexico,2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,103.35
+MEX,Mexico,2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,103.87
+MEX,Mexico,2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+MEX,Mexico,2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,105.46
+MEX,Mexico,2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,105.75
+MEX,Mexico,2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,80.05
+MEX,Mexico,2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,81.62
+MEX,Mexico,2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,80.42
+MEX,Mexico,2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,80.91
+MEX,Mexico,2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,81.76
+MEX,Mexico,2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,81.86
+MEX,Mexico,2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,82.23
+MEX,Mexico,2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,81.68
+MEX,Mexico,2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+MEX,Mexico,2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,83.13
+MEX,Mexico,2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,83.22
+MEX,Mexico,2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,83.31
+MEX,Mexico,2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,83.97
+MEX,Mexico,2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,84.66
+MEX,Mexico,2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,85.19
+MEX,Mexico,2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+MEX,Mexico,2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,85.6
+MEX,Mexico,2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,85.91
+MEX,Mexico,2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,86.39
+MEX,Mexico,2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,86.21
+MEX,Mexico,2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,86.56
+MEX,Mexico,2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,87.85
+MEX,Mexico,2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,86.7
+MEX,Mexico,2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,87.72
+MEX,Mexico,2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,35.84
+MEX,Mexico,2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,36.23
+MEX,Mexico,2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,36.43
+MEX,Mexico,2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,37.24
+MEX,Mexico,2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,37.56
+MEX,Mexico,2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,37.69
+MEX,Mexico,2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,37.85
+MEX,Mexico,2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+MEX,Mexico,2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,38.83
+MEX,Mexico,2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,38.85
+MEX,Mexico,2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,39.72
+MEX,Mexico,2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,40.24
+MEX,Mexico,2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,40.77
+MEX,Mexico,2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,41.1
+MEX,Mexico,2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,40.77
+MEX,Mexico,2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,41.3
+MEX,Mexico,2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,41.53
+MEX,Mexico,2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,41.88
+MEX,Mexico,2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,42.21
+MEX,Mexico,2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,42.65
+MEX,Mexico,2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,43.47
+MEX,Mexico,2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,43.47
+MEX,Mexico,2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,43.24
+MEX,Mexico,2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+USA,United States,2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.58
+USA,United States,2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.72
+USA,United States,2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.67
+USA,United States,2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.71
+USA,United States,2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.75
+USA,United States,2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.94
+USA,United States,2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.84
+USA,United States,2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.39
+USA,United States,2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.51
+USA,United States,2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.72
+USA,United States,2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.4
+USA,United States,2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.37
+USA,United States,2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.79
+USA,United States,2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+USA,United States,2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.22
+USA,United States,2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.76
+USA,United States,2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.99
+USA,United States,2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.53
+USA,United States,2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.39
+USA,United States,2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.41
+USA,United States,2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.19
+USA,United States,2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.12
+USA,United States,2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+USA,United States,2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.51
+USA,United States,2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.28
+USA,United States,2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.8
+USA,United States,2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.22
+USA,United States,2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.51
+USA,United States,2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.91
+USA,United States,2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.7
+USA,United States,2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.68
+USA,United States,2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.58
+USA,United States,2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+USA,United States,2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.12
+USA,United States,2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+USA,United States,2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.46
+USA,United States,2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.8
+USA,United States,2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.63
+USA,United States,2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.12
+USA,United States,2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.02
+USA,United States,2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.34
+USA,United States,2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.41
+USA,United States,2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.46
+USA,United States,2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.48
+USA,United States,2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.4
+USA,United States,2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.93
+USA,United States,2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+USA,United States,2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.34
+USA,United States,2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.39
+USA,United States,2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.37
+USA,United States,2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.72
+USA,United States,2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.43
+USA,United States,2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.9
+USA,United States,2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.03
+USA,United States,2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.92
+USA,United States,2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.85
+USA,United States,2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.44
+USA,United States,2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.9
+USA,United States,2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.56
+USA,United States,2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.6
+USA,United States,2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.54
+USA,United States,2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.47
+USA,United States,2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+USA,United States,2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.32
+USA,United States,2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.38
+USA,United States,2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+USA,United States,2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.81
+USA,United States,2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.58
+USA,United States,2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.53
+USA,United States,2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.82
+USA,United States,2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.2
+USA,United States,2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.32
+USA,United States,2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.04
+USA,United States,2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.49
+USA,United States,2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.36
+USA,United States,2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.91
+USA,United States,2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.52
+USA,United States,2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.99
+USA,United States,2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+USA,United States,2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.55
+USA,United States,2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.9
+USA,United States,2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+USA,United States,2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.71
+USA,United States,2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.83
+USA,United States,2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.28
+USA,United States,2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.99
+USA,United States,2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.59
+USA,United States,2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.65
+USA,United States,2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+USA,United States,2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.71
+USA,United States,2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+USA,United States,2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.95
+USA,United States,2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+USA,United States,2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.94
+USA,United States,2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,99.06
+USA,United States,2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.31
+USA,United States,2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,86.89
+USA,United States,2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.6
+USA,United States,2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.62
+USA,United States,2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.16
+USA,United States,2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.2
+USA,United States,2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,86.32
+USA,United States,2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.08
+USA,United States,2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+USA,United States,2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.25
+USA,United States,2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.86
+USA,United States,2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.89
+USA,United States,2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.33
+USA,United States,2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.64
+USA,United States,2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,88.24
+USA,United States,2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.13
+USA,United States,2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.6
+USA,United States,2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.2
+USA,United States,2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.51
+USA,United States,2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+USA,United States,2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.8
+USA,United States,2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.24
+USA,United States,2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.65
+USA,United States,2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,87.46
+USA,United States,2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,88.21
+KOR,"Korea, Rep.",2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.47
+KOR,"Korea, Rep.",2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.72
+KOR,"Korea, Rep.",2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+KOR,"Korea, Rep.",2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.97
+KOR,"Korea, Rep.",2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.75
+KOR,"Korea, Rep.",2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.62
+KOR,"Korea, Rep.",2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.15
+KOR,"Korea, Rep.",2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.13
+KOR,"Korea, Rep.",2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.68
+KOR,"Korea, Rep.",2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.6
+KOR,"Korea, Rep.",2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.63
+KOR,"Korea, Rep.",2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.93
+KOR,"Korea, Rep.",2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.16
+KOR,"Korea, Rep.",2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.01
+KOR,"Korea, Rep.",2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.0
+KOR,"Korea, Rep.",2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.54
+KOR,"Korea, Rep.",2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.3
+KOR,"Korea, Rep.",2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+KOR,"Korea, Rep.",2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+KOR,"Korea, Rep.",2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.83
+KOR,"Korea, Rep.",2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.33
+KOR,"Korea, Rep.",2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.39
+KOR,"Korea, Rep.",2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+KOR,"Korea, Rep.",2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.23
+KOR,"Korea, Rep.",2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.47
+KOR,"Korea, Rep.",2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.08
+KOR,"Korea, Rep.",2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.55
+KOR,"Korea, Rep.",2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.18
+KOR,"Korea, Rep.",2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.98
+KOR,"Korea, Rep.",2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.68
+KOR,"Korea, Rep.",2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.22
+KOR,"Korea, Rep.",2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.35
+KOR,"Korea, Rep.",2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.69
+KOR,"Korea, Rep.",2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.08
+KOR,"Korea, Rep.",2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.48
+KOR,"Korea, Rep.",2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.73
+KOR,"Korea, Rep.",2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.11
+KOR,"Korea, Rep.",2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.77
+KOR,"Korea, Rep.",2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.55
+KOR,"Korea, Rep.",2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+KOR,"Korea, Rep.",2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.91
+KOR,"Korea, Rep.",2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.29
+KOR,"Korea, Rep.",2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.22
+KOR,"Korea, Rep.",2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.5
+KOR,"Korea, Rep.",2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.96
+KOR,"Korea, Rep.",2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+KOR,"Korea, Rep.",2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.58
+KOR,"Korea, Rep.",2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.3
+KOR,"Korea, Rep.",2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+KOR,"Korea, Rep.",2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,95.8
+KOR,"Korea, Rep.",2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,95.21
+KOR,"Korea, Rep.",2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,94.58
+KOR,"Korea, Rep.",2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+KOR,"Korea, Rep.",2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,95.85
+KOR,"Korea, Rep.",2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,95.89
+KOR,"Korea, Rep.",2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.38
+KOR,"Korea, Rep.",2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.02
+KOR,"Korea, Rep.",2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,95.5
+KOR,"Korea, Rep.",2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.84
+KOR,"Korea, Rep.",2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.39
+KOR,"Korea, Rep.",2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.41
+KOR,"Korea, Rep.",2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.12
+KOR,"Korea, Rep.",2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,97.4
+KOR,"Korea, Rep.",2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.26
+KOR,"Korea, Rep.",2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,97.89
+KOR,"Korea, Rep.",2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+KOR,"Korea, Rep.",2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.02
+KOR,"Korea, Rep.",2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.01
+KOR,"Korea, Rep.",2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+KOR,"Korea, Rep.",2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.3
+KOR,"Korea, Rep.",2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.78
+KOR,"Korea, Rep.",2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.23
+KOR,"Korea, Rep.",2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+KOR,"Korea, Rep.",2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,95.54
+KOR,"Korea, Rep.",2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,94.66
+KOR,"Korea, Rep.",2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,95.75
+KOR,"Korea, Rep.",2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,95.17
+KOR,"Korea, Rep.",2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,95.86
+KOR,"Korea, Rep.",2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+KOR,"Korea, Rep.",2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,96.31
+KOR,"Korea, Rep.",2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,96.11
+KOR,"Korea, Rep.",2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+KOR,"Korea, Rep.",2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,96.29
+KOR,"Korea, Rep.",2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+KOR,"Korea, Rep.",2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,96.51
+KOR,"Korea, Rep.",2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+KOR,"Korea, Rep.",2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.32
+KOR,"Korea, Rep.",2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.39
+KOR,"Korea, Rep.",2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.59
+KOR,"Korea, Rep.",2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.35
+KOR,"Korea, Rep.",2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,97.6
+KOR,"Korea, Rep.",2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.22
+KOR,"Korea, Rep.",2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.34
+KOR,"Korea, Rep.",2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.3
+KOR,"Korea, Rep.",2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.83
+KOR,"Korea, Rep.",2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,98.83
+KOR,"Korea, Rep.",2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.33
+KOR,"Korea, Rep.",2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,94.51
+KOR,"Korea, Rep.",2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.45
+KOR,"Korea, Rep.",2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.52
+KOR,"Korea, Rep.",2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,96.19
+KOR,"Korea, Rep.",2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,94.6
+KOR,"Korea, Rep.",2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.83
+KOR,"Korea, Rep.",2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+KOR,"Korea, Rep.",2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.77
+KOR,"Korea, Rep.",2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,95.98
+KOR,"Korea, Rep.",2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+KOR,"Korea, Rep.",2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,96.83
+KOR,"Korea, Rep.",2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,97.54
+KOR,"Korea, Rep.",2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,96.88
+KOR,"Korea, Rep.",2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,96.54
+KOR,"Korea, Rep.",2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,97.12
+KOR,"Korea, Rep.",2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,97.2
+KOR,"Korea, Rep.",2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,97.83
+KOR,"Korea, Rep.",2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,97.96
+KOR,"Korea, Rep.",2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,98.06
+KOR,"Korea, Rep.",2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,98.89
+KOR,"Korea, Rep.",2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,98.65
+KOR,"Korea, Rep.",2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,97.96
+KOR,"Korea, Rep.",2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,98.85
+FIN,Finland,2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.81
+FIN,Finland,2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.73
+FIN,Finland,2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.38
+FIN,Finland,2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.47
+FIN,Finland,2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.21
+FIN,Finland,2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.15
+FIN,Finland,2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+FIN,Finland,2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.22
+FIN,Finland,2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.85
+FIN,Finland,2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,98.71
+FIN,Finland,2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.35
+FIN,Finland,2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.05
+FIN,Finland,2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.5
+FIN,Finland,2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.05
+FIN,Finland,2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.55
+FIN,Finland,2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+FIN,Finland,2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.16
+FIN,Finland,2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.81
+FIN,Finland,2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.93
+FIN,Finland,2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.03
+FIN,Finland,2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.14
+FIN,Finland,2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,99.72
+FIN,Finland,2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.2
+FIN,Finland,2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,100.05
+FIN,Finland,2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.46
+FIN,Finland,2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.31
+FIN,Finland,2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.49
+FIN,Finland,2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.16
+FIN,Finland,2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+FIN,Finland,2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.52
+FIN,Finland,2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.8
+FIN,Finland,2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.37
+FIN,Finland,2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.29
+FIN,Finland,2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.86
+FIN,Finland,2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.65
+FIN,Finland,2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.29
+FIN,Finland,2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.23
+FIN,Finland,2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+FIN,Finland,2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.84
+FIN,Finland,2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.84
+FIN,Finland,2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.85
+FIN,Finland,2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.09
+FIN,Finland,2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.49
+FIN,Finland,2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.58
+FIN,Finland,2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.38
+FIN,Finland,2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.47
+FIN,Finland,2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.66
+FIN,Finland,2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.66
+FIN,Finland,2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.68
+FIN,Finland,2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.14
+FIN,Finland,2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.87
+FIN,Finland,2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.56
+FIN,Finland,2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.6
+FIN,Finland,2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+FIN,Finland,2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.65
+FIN,Finland,2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.99
+FIN,Finland,2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.88
+FIN,Finland,2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+FIN,Finland,2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.42
+FIN,Finland,2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.15
+FIN,Finland,2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.45
+FIN,Finland,2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.2
+FIN,Finland,2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.84
+FIN,Finland,2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.81
+FIN,Finland,2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.6
+FIN,Finland,2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.1
+FIN,Finland,2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.67
+FIN,Finland,2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.83
+FIN,Finland,2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.75
+FIN,Finland,2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.33
+FIN,Finland,2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.98
+FIN,Finland,2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.12
+FIN,Finland,2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.14
+FIN,Finland,2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.37
+FIN,Finland,2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.7
+FIN,Finland,2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.03
+FIN,Finland,2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.59
+FIN,Finland,2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.69
+FIN,Finland,2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+FIN,Finland,2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,118.15
+FIN,Finland,2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.9
+FIN,Finland,2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.72
+FIN,Finland,2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.52
+FIN,Finland,2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.17
+FIN,Finland,2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,118.22
+FIN,Finland,2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.68
+FIN,Finland,2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.32
+FIN,Finland,2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.61
+FIN,Finland,2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,118.1
+FIN,Finland,2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,118.04
+FIN,Finland,2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.53
+FIN,Finland,2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,118.43
+FIN,Finland,2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.43
+FIN,Finland,2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,118.56
+FIN,Finland,2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,118.12
+FIN,Finland,2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.91
+FIN,Finland,2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.5
+FIN,Finland,2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.65
+FIN,Finland,2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.85
+FIN,Finland,2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,88.95
+FIN,Finland,2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.38
+FIN,Finland,2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.72
+FIN,Finland,2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.19
+FIN,Finland,2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.19
+FIN,Finland,2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+FIN,Finland,2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.21
+FIN,Finland,2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.47
+FIN,Finland,2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.81
+FIN,Finland,2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.27
+FIN,Finland,2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.25
+FIN,Finland,2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.8
+FIN,Finland,2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.1
+FIN,Finland,2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+FIN,Finland,2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.34
+FIN,Finland,2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.91
+FIN,Finland,2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.91
+FIN,Finland,2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.8
+FIN,Finland,2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.23
+FIN,Finland,2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,89.95
+FIN,Finland,2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,90.22
+PRT,Portugal,2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.6
+PRT,Portugal,2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.38
+PRT,Portugal,2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.51
+PRT,Portugal,2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+PRT,Portugal,2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,94.89
+PRT,Portugal,2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.04
+PRT,Portugal,2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.01
+PRT,Portugal,2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.23
+PRT,Portugal,2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.21
+PRT,Portugal,2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.82
+PRT,Portugal,2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+PRT,Portugal,2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.07
+PRT,Portugal,2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.58
+PRT,Portugal,2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,95.67
+PRT,Portugal,2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+PRT,Portugal,2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.12
+PRT,Portugal,2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.09
+PRT,Portugal,2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.36
+PRT,Portugal,2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.34
+PRT,Portugal,2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.84
+PRT,Portugal,2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.75
+PRT,Portugal,2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,97.01
+PRT,Portugal,2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.85
+PRT,Portugal,2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,96.24
+PRT,Portugal,2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.66
+PRT,Portugal,2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.25
+PRT,Portugal,2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.33
+PRT,Portugal,2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+PRT,Portugal,2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.85
+PRT,Portugal,2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.2
+PRT,Portugal,2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.19
+PRT,Portugal,2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+PRT,Portugal,2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+PRT,Portugal,2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+PRT,Portugal,2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.44
+PRT,Portugal,2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.44
+PRT,Portugal,2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.92
+PRT,Portugal,2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.14
+PRT,Portugal,2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.82
+PRT,Portugal,2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.02
+PRT,Portugal,2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.82
+PRT,Portugal,2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.19
+PRT,Portugal,2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.99
+PRT,Portugal,2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.13
+PRT,Portugal,2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+PRT,Portugal,2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.28
+PRT,Portugal,2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.76
+PRT,Portugal,2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.4
+PRT,Portugal,2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.77
+PRT,Portugal,2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.5
+PRT,Portugal,2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.41
+PRT,Portugal,2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.78
+PRT,Portugal,2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.69
+PRT,Portugal,2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.83
+PRT,Portugal,2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+PRT,Portugal,2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.09
+PRT,Portugal,2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.12
+PRT,Portugal,2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.13
+PRT,Portugal,2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,101.53
+PRT,Portugal,2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.43
+PRT,Portugal,2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.12
+PRT,Portugal,2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.33
+PRT,Portugal,2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+PRT,Portugal,2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.79
+PRT,Portugal,2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.61
+PRT,Portugal,2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,103.74
+PRT,Portugal,2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.86
+PRT,Portugal,2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+PRT,Portugal,2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,104.0
+PRT,Portugal,2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,104.13
+PRT,Portugal,2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,104.37
+PRT,Portugal,2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,104.69
+PRT,Portugal,2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,112.82
+PRT,Portugal,2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,113.43
+PRT,Portugal,2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,113.34
+PRT,Portugal,2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,112.98
+PRT,Portugal,2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,114.0
+PRT,Portugal,2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,114.63
+PRT,Portugal,2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,113.71
+PRT,Portugal,2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,114.75
+PRT,Portugal,2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,114.82
+PRT,Portugal,2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,115.62
+PRT,Portugal,2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,115.4
+PRT,Portugal,2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,116.06
+PRT,Portugal,2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,116.26
+PRT,Portugal,2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,116.52
+PRT,Portugal,2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.12
+PRT,Portugal,2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,116.66
+PRT,Portugal,2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.02
+PRT,Portugal,2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.42
+PRT,Portugal,2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.54
+PRT,Portugal,2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.65
+PRT,Portugal,2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.64
+PRT,Portugal,2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,118.25
+PRT,Portugal,2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.9
+PRT,Portugal,2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,117.93
+PRT,Portugal,2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+PRT,Portugal,2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,63.51
+PRT,Portugal,2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,63.59
+PRT,Portugal,2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+PRT,Portugal,2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+PRT,Portugal,2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,64.67
+PRT,Portugal,2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,63.94
+PRT,Portugal,2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+PRT,Portugal,2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,65.41
+PRT,Portugal,2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,65.31
+PRT,Portugal,2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,65.77
+PRT,Portugal,2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,65.84
+PRT,Portugal,2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,65.78
+PRT,Portugal,2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,65.77
+PRT,Portugal,2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,65.77
+PRT,Portugal,2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,67.47
+PRT,Portugal,2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+PRT,Portugal,2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,67.82
+PRT,Portugal,2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,67.54
+PRT,Portugal,2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,67.86
+PRT,Portugal,2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,68.08
+PRT,Portugal,2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+PRT,Portugal,2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,68.19
+PRT,Portugal,2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+IND,India,2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,65.17
+IND,India,2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,66.03
+IND,India,2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,65.87
+IND,India,2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,67.18
+IND,India,2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,67.15
+IND,India,2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+IND,India,2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,68.16
+IND,India,2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,68.72
+IND,India,2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+IND,India,2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,68.28
+IND,India,2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,68.68
+IND,India,2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,70.76
+IND,India,2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+IND,India,2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,71.66
+IND,India,2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,72.15
+IND,India,2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,71.67
+IND,India,2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,72.19
+IND,India,2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,73.34
+IND,India,2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,73.34
+IND,India,2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,74.47
+IND,India,2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,75.04
+IND,India,2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,74.39
+IND,India,2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,74.98
+IND,India,2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,75.79
+IND,India,2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+IND,India,2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+IND,India,2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+IND,India,2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.68
+IND,India,2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+IND,India,2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.89
+IND,India,2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.9
+IND,India,2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,3.38
+IND,India,2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.4
+IND,India,2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.28
+IND,India,2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,5.99
+IND,India,2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,6.66
+IND,India,2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+IND,India,2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,83.29
+IND,India,2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,83.96
+IND,India,2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,84.66
+IND,India,2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+IND,India,2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,86.23
+IND,India,2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,87.5
+IND,India,2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+IND,India,2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,88.76
+IND,India,2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,90.35
+IND,India,2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,91.71
+IND,India,2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,91.9
+IND,India,2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,92.86
+IND,India,2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,93.44
+IND,India,2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,94.79
+IND,India,2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,95.18
+IND,India,2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.37
+IND,India,2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,96.71
+IND,India,2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,97.16
+IND,India,2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,98.91
+IND,India,2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,99.8
+IND,India,2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,100.74
+IND,India,2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,102.09
+IND,India,2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,103.1
+IND,India,2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,56.12
+IND,India,2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,57.16
+IND,India,2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,57.49
+IND,India,2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,58.3
+IND,India,2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,59.8
+IND,India,2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+IND,India,2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,60.91
+IND,India,2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,63.44
+IND,India,2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,63.22
+IND,India,2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,63.9
+IND,India,2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,64.76
+IND,India,2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,65.32
+IND,India,2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,66.91
+IND,India,2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,67.58
+IND,India,2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+IND,India,2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,69.71
+IND,India,2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+IND,India,2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,70.51
+IND,India,2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,72.22
+IND,India,2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,73.09
+IND,India,2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,73.14
+IND,India,2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+IND,India,2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,75.34
+IND,India,2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,77.11
+IND,India,2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,10.96
+IND,India,2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,11.65
+IND,India,2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,12.88
+IND,India,2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,13.75
+IND,India,2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,14.64
+IND,India,2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,15.85
+IND,India,2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,15.68
+IND,India,2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+IND,India,2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+IND,India,2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,18.99
+IND,India,2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,20.56
+IND,India,2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,20.58
+IND,India,2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+IND,India,2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,23.06
+IND,India,2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,23.8
+IND,India,2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,24.53
+IND,India,2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,25.49
+IND,India,2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,26.52
+IND,India,2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,26.88
+IND,India,2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,28.09
+IND,India,2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,29.88
+IND,India,2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,30.07
+IND,India,2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,30.84
+IND,India,2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,31.55
+NGA,Nigeria,2000,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,56.68
+NGA,Nigeria,2001,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,57.35
+NGA,Nigeria,2002,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,57.63
+NGA,Nigeria,2003,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,57.71
+NGA,Nigeria,2004,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,59.08
+NGA,Nigeria,2005,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+NGA,Nigeria,2006,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,58.12
+NGA,Nigeria,2007,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,58.6
+NGA,Nigeria,2008,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,58.97
+NGA,Nigeria,2009,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,58.91
+NGA,Nigeria,2010,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,59.59
+NGA,Nigeria,2011,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,59.88
+NGA,Nigeria,2012,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,60.27
+NGA,Nigeria,2013,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+NGA,Nigeria,2014,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,61.02
+NGA,Nigeria,2015,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+NGA,Nigeria,2016,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,62.13
+NGA,Nigeria,2017,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,60.95
+NGA,Nigeria,2018,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,61.16
+NGA,Nigeria,2019,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,61.63
+NGA,Nigeria,2020,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,62.13
+NGA,Nigeria,2021,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,
+NGA,Nigeria,2022,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,62.74
+NGA,Nigeria,2023,SE.ADT.LITR.ZS,alfabetizacao_adultos_pct,63.6
+NGA,Nigeria,2000,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2001,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2002,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2003,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2004,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+NGA,Nigeria,2005,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2006,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2007,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2008,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2009,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2010,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2011,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2012,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2013,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2014,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2015,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+NGA,Nigeria,2016,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.0
+NGA,Nigeria,2017,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.3
+NGA,Nigeria,2018,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,0.54
+NGA,Nigeria,2019,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.34
+NGA,Nigeria,2020,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,1.83
+NGA,Nigeria,2021,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,
+NGA,Nigeria,2022,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,2.86
+NGA,Nigeria,2023,SE.XPD.TOTL.GD.ZS,gasto_publico_educacao_pct_pib,4.17
+NGA,Nigeria,2000,SE.PRM.ENRR,matricula_primaria_bruta_pct,75.19
+NGA,Nigeria,2001,SE.PRM.ENRR,matricula_primaria_bruta_pct,74.99
+NGA,Nigeria,2002,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+NGA,Nigeria,2003,SE.PRM.ENRR,matricula_primaria_bruta_pct,76.48
+NGA,Nigeria,2004,SE.PRM.ENRR,matricula_primaria_bruta_pct,76.64
+NGA,Nigeria,2005,SE.PRM.ENRR,matricula_primaria_bruta_pct,77.99
+NGA,Nigeria,2006,SE.PRM.ENRR,matricula_primaria_bruta_pct,77.44
+NGA,Nigeria,2007,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+NGA,Nigeria,2008,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+NGA,Nigeria,2009,SE.PRM.ENRR,matricula_primaria_bruta_pct,79.48
+NGA,Nigeria,2010,SE.PRM.ENRR,matricula_primaria_bruta_pct,79.59
+NGA,Nigeria,2011,SE.PRM.ENRR,matricula_primaria_bruta_pct,80.77
+NGA,Nigeria,2012,SE.PRM.ENRR,matricula_primaria_bruta_pct,81.41
+NGA,Nigeria,2013,SE.PRM.ENRR,matricula_primaria_bruta_pct,81.63
+NGA,Nigeria,2014,SE.PRM.ENRR,matricula_primaria_bruta_pct,82.43
+NGA,Nigeria,2015,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+NGA,Nigeria,2016,SE.PRM.ENRR,matricula_primaria_bruta_pct,83.06
+NGA,Nigeria,2017,SE.PRM.ENRR,matricula_primaria_bruta_pct,83.69
+NGA,Nigeria,2018,SE.PRM.ENRR,matricula_primaria_bruta_pct,84.24
+NGA,Nigeria,2019,SE.PRM.ENRR,matricula_primaria_bruta_pct,83.76
+NGA,Nigeria,2020,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+NGA,Nigeria,2021,SE.PRM.ENRR,matricula_primaria_bruta_pct,
+NGA,Nigeria,2022,SE.PRM.ENRR,matricula_primaria_bruta_pct,86.05
+NGA,Nigeria,2023,SE.PRM.ENRR,matricula_primaria_bruta_pct,85.99
+NGA,Nigeria,2000,SE.SEC.ENRR,matricula_secundaria_bruta_pct,33.78
+NGA,Nigeria,2001,SE.SEC.ENRR,matricula_secundaria_bruta_pct,34.99
+NGA,Nigeria,2002,SE.SEC.ENRR,matricula_secundaria_bruta_pct,35.44
+NGA,Nigeria,2003,SE.SEC.ENRR,matricula_secundaria_bruta_pct,35.68
+NGA,Nigeria,2004,SE.SEC.ENRR,matricula_secundaria_bruta_pct,36.28
+NGA,Nigeria,2005,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+NGA,Nigeria,2006,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+NGA,Nigeria,2007,SE.SEC.ENRR,matricula_secundaria_bruta_pct,37.98
+NGA,Nigeria,2008,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+NGA,Nigeria,2009,SE.SEC.ENRR,matricula_secundaria_bruta_pct,39.53
+NGA,Nigeria,2010,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+NGA,Nigeria,2011,SE.SEC.ENRR,matricula_secundaria_bruta_pct,39.3
+NGA,Nigeria,2012,SE.SEC.ENRR,matricula_secundaria_bruta_pct,38.89
+NGA,Nigeria,2013,SE.SEC.ENRR,matricula_secundaria_bruta_pct,40.65
+NGA,Nigeria,2014,SE.SEC.ENRR,matricula_secundaria_bruta_pct,41.77
+NGA,Nigeria,2015,SE.SEC.ENRR,matricula_secundaria_bruta_pct,42.02
+NGA,Nigeria,2016,SE.SEC.ENRR,matricula_secundaria_bruta_pct,
+NGA,Nigeria,2017,SE.SEC.ENRR,matricula_secundaria_bruta_pct,43.05
+NGA,Nigeria,2018,SE.SEC.ENRR,matricula_secundaria_bruta_pct,43.2
+NGA,Nigeria,2019,SE.SEC.ENRR,matricula_secundaria_bruta_pct,43.38
+NGA,Nigeria,2020,SE.SEC.ENRR,matricula_secundaria_bruta_pct,44.89
+NGA,Nigeria,2021,SE.SEC.ENRR,matricula_secundaria_bruta_pct,44.67
+NGA,Nigeria,2022,SE.SEC.ENRR,matricula_secundaria_bruta_pct,45.46
+NGA,Nigeria,2023,SE.SEC.ENRR,matricula_secundaria_bruta_pct,44.55
+NGA,Nigeria,2000,SE.TER.ENRR,matricula_terciaria_bruta_pct,0.0
+NGA,Nigeria,2001,SE.TER.ENRR,matricula_terciaria_bruta_pct,0.57
+NGA,Nigeria,2002,SE.TER.ENRR,matricula_terciaria_bruta_pct,0.64
+NGA,Nigeria,2003,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+NGA,Nigeria,2004,SE.TER.ENRR,matricula_terciaria_bruta_pct,1.8
+NGA,Nigeria,2005,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+NGA,Nigeria,2006,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+NGA,Nigeria,2007,SE.TER.ENRR,matricula_terciaria_bruta_pct,4.09
+NGA,Nigeria,2008,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+NGA,Nigeria,2009,SE.TER.ENRR,matricula_terciaria_bruta_pct,4.82
+NGA,Nigeria,2010,SE.TER.ENRR,matricula_terciaria_bruta_pct,4.93
+NGA,Nigeria,2011,SE.TER.ENRR,matricula_terciaria_bruta_pct,6.1
+NGA,Nigeria,2012,SE.TER.ENRR,matricula_terciaria_bruta_pct,6.26
+NGA,Nigeria,2013,SE.TER.ENRR,matricula_terciaria_bruta_pct,6.49
+NGA,Nigeria,2014,SE.TER.ENRR,matricula_terciaria_bruta_pct,6.53
+NGA,Nigeria,2015,SE.TER.ENRR,matricula_terciaria_bruta_pct,7.56
+NGA,Nigeria,2016,SE.TER.ENRR,matricula_terciaria_bruta_pct,8.48
+NGA,Nigeria,2017,SE.TER.ENRR,matricula_terciaria_bruta_pct,9.13
+NGA,Nigeria,2018,SE.TER.ENRR,matricula_terciaria_bruta_pct,8.86
+NGA,Nigeria,2019,SE.TER.ENRR,matricula_terciaria_bruta_pct,
+NGA,Nigeria,2020,SE.TER.ENRR,matricula_terciaria_bruta_pct,10.45
+NGA,Nigeria,2021,SE.TER.ENRR,matricula_terciaria_bruta_pct,10.15
+NGA,Nigeria,2022,SE.TER.ENRR,matricula_terciaria_bruta_pct,10.56
+NGA,Nigeria,2023,SE.TER.ENRR,matricula_terciaria_bruta_pct,

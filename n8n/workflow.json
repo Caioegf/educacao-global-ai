@@ -1,0 +1,197 @@
+{
+  "name": "Agente de Inteligencia Global em Educacao",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "a1b2c3d4-0001-4000-8000-000000000001",
+      "name": "Gatilho Manual",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [-460, -100]
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "weeks",
+              "triggerAtDay": [1],
+              "triggerAtHour": 8
+            }
+          ]
+        }
+      },
+      "id": "a1b2c3d4-0002-4000-8000-000000000002",
+      "name": "Agendamento Semanal (Bonus)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [-460, 100]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "cfg-1",
+              "name": "projectDir",
+              "value": "/ALTERE/AQUI/educacao-global-ai",
+              "type": "string"
+            },
+            {
+              "id": "cfg-2",
+              "name": "countries",
+              "value": "BRA,ARG,CHL,MEX,USA,KOR,FIN,PRT,IND,NGA",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "a1b2c3d4-0003-4000-8000-000000000003",
+      "name": "Config (edite o caminho)",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [-240, 0]
+    },
+    {
+      "parameters": {
+        "command": "=cd {{ $json.projectDir }} && python3 src/pipeline.py --countries {{ $json.countries }}"
+      },
+      "id": "a1b2c3d4-0004-4000-8000-000000000004",
+      "name": "Executar Pipeline Python",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [-20, 0]
+    },
+    {
+      "parameters": {
+        "fileSelector": "={{ $('Config (edite o caminho)').item.json.projectDir }}/data/processed/ai_payload.json",
+        "options": {}
+      },
+      "id": "a1b2c3d4-0005-4000-8000-000000000005",
+      "name": "Ler Payload Processado",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [200, 0]
+    },
+    {
+      "parameters": {
+        "operation": "fromJson",
+        "options": {}
+      },
+      "id": "a1b2c3d4-0006-4000-8000-000000000006",
+      "name": "Extrair JSON",
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1,
+      "position": [420, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.openai.com/v1/chat/completions",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "=Bearer {{ $env.OPENAI_API_KEY }}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({\n  model: 'gpt-4o-mini',\n  temperature: 0.4,\n  messages: [\n    { role: 'system', content: 'Você é um analista sênior de política educacional de uma organização internacional. Você recebe dados processados do World Bank Education Statistics e produz relatórios executivos. Você NUNCA apenas resume números: toda métrica citada vem com interpretação, hipótese de causa e implicação prática. Distinga estagnação em nível alto (teto atingido) de estagnação problemática. Relacione investimento público (% PIB) com resultados, apontando eficiência e ineficiência. Declare limitações (dados interpolados, defasagem de coleta, correlação ≠ causalidade). Escreva em português, tom executivo, máximo 800 palavras, em Markdown, com as seções: 🚨 Alertas críticos; 📈 Destaques de evolução; 🧊 Estagnação e riscos; 💰 Investimento vs. resultado; 🌎 Comparação entre países; ✅ Recomendações; ⚠️ Limitações da análise.' },\n    { role: 'user', content: 'Analise os dados abaixo (JSON do pipeline) e produza o relatório executivo:\\n\\n' + JSON.stringify($json) }\n  ]\n}) }}",
+        "options": {
+          "timeout": 120000
+        }
+      },
+      "id": "a1b2c3d4-0007-4000-8000-000000000007",
+      "name": "Chamada IA (OpenAI)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [640, 0]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "rep-1",
+              "name": "relatorio",
+              "value": "={{ $json.choices[0].message.content }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "a1b2c3d4-0008-4000-8000-000000000008",
+      "name": "Extrair Relatorio",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [860, 0]
+    },
+    {
+      "parameters": {
+        "operation": "toText",
+        "sourceProperty": "relatorio",
+        "options": {
+          "fileName": "relatorio_executivo.md"
+        }
+      },
+      "id": "a1b2c3d4-0009-4000-8000-000000000009",
+      "name": "Converter para Arquivo",
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [1080, 0]
+    },
+    {
+      "parameters": {
+        "operation": "write",
+        "fileName": "={{ $('Config (edite o caminho)').item.json.projectDir }}/data/reports/relatorio_{{ $now.format('yyyy-MM-dd_HHmm') }}.md",
+        "options": {}
+      },
+      "id": "a1b2c3d4-0010-4000-8000-000000000010",
+      "name": "Armazenar Relatorio",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [1300, 0]
+    }
+  ],
+  "connections": {
+    "Gatilho Manual": {
+      "main": [[{ "node": "Config (edite o caminho)", "type": "main", "index": 0 }]]
+    },
+    "Agendamento Semanal (Bonus)": {
+      "main": [[{ "node": "Config (edite o caminho)", "type": "main", "index": 0 }]]
+    },
+    "Config (edite o caminho)": {
+      "main": [[{ "node": "Executar Pipeline Python", "type": "main", "index": 0 }]]
+    },
+    "Executar Pipeline Python": {
+      "main": [[{ "node": "Ler Payload Processado", "type": "main", "index": 0 }]]
+    },
+    "Ler Payload Processado": {
+      "main": [[{ "node": "Extrair JSON", "type": "main", "index": 0 }]]
+    },
+    "Extrair JSON": {
+      "main": [[{ "node": "Chamada IA (OpenAI)", "type": "main", "index": 0 }]]
+    },
+    "Chamada IA (OpenAI)": {
+      "main": [[{ "node": "Extrair Relatorio", "type": "main", "index": 0 }]]
+    },
+    "Extrair Relatorio": {
+      "main": [[{ "node": "Converter para Arquivo", "type": "main", "index": 0 }]]
+    },
+    "Converter para Arquivo": {
+      "main": [[{ "node": "Armazenar Relatorio", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {},
+  "meta": { "instanceId": "educacao-global-ai" }
+}

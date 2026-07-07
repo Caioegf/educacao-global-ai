@@ -1,0 +1,679 @@
+{
+  "periodo": "2000-2023",
+  "paises": [
+    "Argentina",
+    "Brazil",
+    "Chile",
+    "Finland",
+    "India",
+    "Korea, Rep.",
+    "Mexico",
+    "Nigeria",
+    "Portugal",
+    "United States"
+  ],
+  "comparacao_ultimo_ano": [
+    {
+      "country_code": "ARG",
+      "country": "Argentina",
+      "alfabetizacao_adultos_pct": 98.74,
+      "gasto_publico_educacao_pct_pib": 5.39,
+      "matricula_primaria_bruta_pct": 109.73,
+      "matricula_secundaria_bruta_pct": 108.26,
+      "matricula_terciaria_bruta_pct": 95.18
+    },
+    {
+      "country_code": "BRA",
+      "country": "Brazil",
+      "alfabetizacao_adultos_pct": 93.92,
+      "gasto_publico_educacao_pct_pib": 7.18,
+      "matricula_primaria_bruta_pct": 114.52,
+      "matricula_secundaria_bruta_pct": 105.8,
+      "matricula_terciaria_bruta_pct": 56.06
+    },
+    {
+      "country_code": "CHL",
+      "country": "Chile",
+      "alfabetizacao_adultos_pct": 96.08,
+      "gasto_publico_educacao_pct_pib": 5.7,
+      "matricula_primaria_bruta_pct": 100.65,
+      "matricula_secundaria_bruta_pct": 101.64,
+      "matricula_terciaria_bruta_pct": 91.53
+    },
+    {
+      "country_code": "FIN",
+      "country": "Finland",
+      "alfabetizacao_adultos_pct": 100.05,
+      "gasto_publico_educacao_pct_pib": 5.66,
+      "matricula_primaria_bruta_pct": 100.12,
+      "matricula_secundaria_bruta_pct": 117.91,
+      "matricula_terciaria_bruta_pct": 90.22
+    },
+    {
+      "country_code": "IND",
+      "country": "India",
+      "alfabetizacao_adultos_pct": 75.79,
+      "gasto_publico_educacao_pct_pib": 6.66,
+      "matricula_primaria_bruta_pct": 103.1,
+      "matricula_secundaria_bruta_pct": 77.11,
+      "matricula_terciaria_bruta_pct": 31.55
+    },
+    {
+      "country_code": "KOR",
+      "country": "Korea, Rep.",
+      "alfabetizacao_adultos_pct": 99.23,
+      "gasto_publico_educacao_pct_pib": 5.3,
+      "matricula_primaria_bruta_pct": 98.23,
+      "matricula_secundaria_bruta_pct": 98.83,
+      "matricula_terciaria_bruta_pct": 98.85
+    },
+    {
+      "country_code": "MEX",
+      "country": "Mexico",
+      "alfabetizacao_adultos_pct": 96.44,
+      "gasto_publico_educacao_pct_pib": 5.2,
+      "matricula_primaria_bruta_pct": 105.75,
+      "matricula_secundaria_bruta_pct": 87.72,
+      "matricula_terciaria_bruta_pct": 43.24
+    },
+    {
+      "country_code": "NGA",
+      "country": "Nigeria",
+      "alfabetizacao_adultos_pct": 63.6,
+      "gasto_publico_educacao_pct_pib": 4.17,
+      "matricula_primaria_bruta_pct": 85.99,
+      "matricula_secundaria_bruta_pct": 44.55,
+      "matricula_terciaria_bruta_pct": 10.56
+    },
+    {
+      "country_code": "PRT",
+      "country": "Portugal",
+      "alfabetizacao_adultos_pct": 96.24,
+      "gasto_publico_educacao_pct_pib": 5.4,
+      "matricula_primaria_bruta_pct": 104.69,
+      "matricula_secundaria_bruta_pct": 117.93,
+      "matricula_terciaria_bruta_pct": 68.19
+    },
+    {
+      "country_code": "USA",
+      "country": "United States",
+      "alfabetizacao_adultos_pct": 98.51,
+      "gasto_publico_educacao_pct_pib": 5.34,
+      "matricula_primaria_bruta_pct": 101.32,
+      "matricula_secundaria_bruta_pct": 98.31,
+      "matricula_terciaria_bruta_pct": 88.21
+    }
+  ],
+  "maiores_evolucoes": [
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "India",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 56.12,
+      "last_value": 77.11,
+      "abs_change": 20.99,
+      "pct_change": 37.4
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "India",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 10.96,
+      "last_value": 31.55,
+      "abs_change": 20.59,
+      "pct_change": 187.86
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "India",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 83.29,
+      "last_value": 103.1,
+      "abs_change": 19.81,
+      "pct_change": 23.78
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Nigeria",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 75.19,
+      "last_value": 85.99,
+      "abs_change": 10.8,
+      "pct_change": 14.36
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Nigeria",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 33.78,
+      "last_value": 44.55,
+      "abs_change": 10.77,
+      "pct_change": 31.88
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Brazil",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 95.15,
+      "last_value": 105.8,
+      "abs_change": 10.65,
+      "pct_change": 11.19
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "India",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 65.17,
+      "last_value": 75.79,
+      "abs_change": 10.62,
+      "pct_change": 16.3
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Brazil",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 103.92,
+      "last_value": 114.52,
+      "abs_change": 10.6,
+      "pct_change": 10.2
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Nigeria",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 0.0,
+      "last_value": 10.56,
+      "abs_change": 10.56,
+      "pct_change": NaN
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Brazil",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 46.69,
+      "last_value": 56.06,
+      "abs_change": 9.37,
+      "pct_change": 20.07
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Brazil",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 0.0,
+      "last_value": 7.18,
+      "abs_change": 7.18,
+      "pct_change": NaN
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Nigeria",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 56.68,
+      "last_value": 63.6,
+      "abs_change": 6.92,
+      "pct_change": 12.21
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "India",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 0.0,
+      "last_value": 6.66,
+      "abs_change": 6.66,
+      "pct_change": NaN
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Chile",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 0.0,
+      "last_value": 5.7,
+      "abs_change": 5.7,
+      "pct_change": NaN
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Brazil",
+      "first_year": 2000.0,
+      "last_year": 2023.0,
+      "first_value": 88.82,
+      "last_value": 93.92,
+      "abs_change": 5.1,
+      "pct_change": 5.74
+    }
+  ],
+  "series_estagnadas": [
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Finland",
+      "abs_change": 0.24
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Finland",
+      "abs_change": 0.2
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Finland",
+      "abs_change": 0.44
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Finland",
+      "abs_change": 0.77
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Finland",
+      "abs_change": 0.72
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "United States",
+      "abs_change": -0.07
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "United States",
+      "abs_change": 0.93
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "United States",
+      "abs_change": 0.27
+    }
+  ],
+  "ranking_valor_atual": [
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Finland",
+      "last_value": 100.05,
+      "rank_valor_atual": 1,
+      "rank_evolucao": 9
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Korea, Rep.",
+      "last_value": 99.23,
+      "rank_valor_atual": 2,
+      "rank_evolucao": 6
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Argentina",
+      "last_value": 98.74,
+      "rank_valor_atual": 3,
+      "rank_evolucao": 8
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "United States",
+      "last_value": 98.51,
+      "rank_valor_atual": 4,
+      "rank_evolucao": 10
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Mexico",
+      "last_value": 96.44,
+      "rank_valor_atual": 5,
+      "rank_evolucao": 4
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Portugal",
+      "last_value": 96.24,
+      "rank_valor_atual": 6,
+      "rank_evolucao": 7
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Chile",
+      "last_value": 96.08,
+      "rank_valor_atual": 7,
+      "rank_evolucao": 5
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Brazil",
+      "last_value": 93.92,
+      "rank_valor_atual": 8,
+      "rank_evolucao": 3
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "India",
+      "last_value": 75.79,
+      "rank_valor_atual": 9,
+      "rank_evolucao": 1
+    },
+    {
+      "indicator": "alfabetizacao_adultos_pct",
+      "country": "Nigeria",
+      "last_value": 63.6,
+      "rank_valor_atual": 10,
+      "rank_evolucao": 2
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Brazil",
+      "last_value": 7.18,
+      "rank_valor_atual": 1,
+      "rank_evolucao": 1
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "India",
+      "last_value": 6.66,
+      "rank_valor_atual": 2,
+      "rank_evolucao": 2
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Chile",
+      "last_value": 5.7,
+      "rank_valor_atual": 3,
+      "rank_evolucao": 3
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Finland",
+      "last_value": 5.66,
+      "rank_valor_atual": 4,
+      "rank_evolucao": 10
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Portugal",
+      "last_value": 5.4,
+      "rank_valor_atual": 5,
+      "rank_evolucao": 5
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Argentina",
+      "last_value": 5.39,
+      "rank_valor_atual": 6,
+      "rank_evolucao": 8
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "United States",
+      "last_value": 5.34,
+      "rank_valor_atual": 7,
+      "rank_evolucao": 9
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Korea, Rep.",
+      "last_value": 5.3,
+      "rank_valor_atual": 8,
+      "rank_evolucao": 7
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Mexico",
+      "last_value": 5.2,
+      "rank_valor_atual": 9,
+      "rank_evolucao": 4
+    },
+    {
+      "indicator": "gasto_publico_educacao_pct_pib",
+      "country": "Nigeria",
+      "last_value": 4.17,
+      "rank_valor_atual": 10,
+      "rank_evolucao": 6
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Brazil",
+      "last_value": 114.52,
+      "rank_valor_atual": 1,
+      "rank_evolucao": 3
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Argentina",
+      "last_value": 109.73,
+      "rank_valor_atual": 2,
+      "rank_evolucao": 7
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Mexico",
+      "last_value": 105.75,
+      "rank_valor_atual": 3,
+      "rank_evolucao": 4
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Portugal",
+      "last_value": 104.69,
+      "rank_valor_atual": 4,
+      "rank_evolucao": 6
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "India",
+      "last_value": 103.1,
+      "rank_valor_atual": 5,
+      "rank_evolucao": 1
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "United States",
+      "last_value": 101.32,
+      "rank_valor_atual": 6,
+      "rank_evolucao": 9
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Chile",
+      "last_value": 100.65,
+      "rank_valor_atual": 7,
+      "rank_evolucao": 5
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Finland",
+      "last_value": 100.12,
+      "rank_valor_atual": 8,
+      "rank_evolucao": 10
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Korea, Rep.",
+      "last_value": 98.23,
+      "rank_valor_atual": 9,
+      "rank_evolucao": 8
+    },
+    {
+      "indicator": "matricula_primaria_bruta_pct",
+      "country": "Nigeria",
+      "last_value": 85.99,
+      "rank_valor_atual": 10,
+      "rank_evolucao": 2
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Portugal",
+      "last_value": 117.93,
+      "rank_valor_atual": 1,
+      "rank_evolucao": 6
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Finland",
+      "last_value": 117.91,
+      "rank_valor_atual": 2,
+      "rank_evolucao": 9
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Argentina",
+      "last_value": 108.26,
+      "rank_valor_atual": 3,
+      "rank_evolucao": 8
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Brazil",
+      "last_value": 105.8,
+      "rank_valor_atual": 4,
+      "rank_evolucao": 3
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Chile",
+      "last_value": 101.64,
+      "rank_valor_atual": 5,
+      "rank_evolucao": 5
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Korea, Rep.",
+      "last_value": 98.83,
+      "rank_valor_atual": 6,
+      "rank_evolucao": 7
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "United States",
+      "last_value": 98.31,
+      "rank_valor_atual": 7,
+      "rank_evolucao": 10
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Mexico",
+      "last_value": 87.72,
+      "rank_valor_atual": 8,
+      "rank_evolucao": 4
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "India",
+      "last_value": 77.11,
+      "rank_valor_atual": 9,
+      "rank_evolucao": 1
+    },
+    {
+      "indicator": "matricula_secundaria_bruta_pct",
+      "country": "Nigeria",
+      "last_value": 44.55,
+      "rank_valor_atual": 10,
+      "rank_evolucao": 2
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Korea, Rep.",
+      "last_value": 98.85,
+      "rank_valor_atual": 1,
+      "rank_evolucao": 7
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Argentina",
+      "last_value": 95.18,
+      "rank_valor_atual": 2,
+      "rank_evolucao": 8
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Chile",
+      "last_value": 91.53,
+      "rank_valor_atual": 3,
+      "rank_evolucao": 5
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Finland",
+      "last_value": 90.22,
+      "rank_valor_atual": 4,
+      "rank_evolucao": 10
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "United States",
+      "last_value": 88.21,
+      "rank_valor_atual": 5,
+      "rank_evolucao": 9
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Portugal",
+      "last_value": 68.19,
+      "rank_valor_atual": 6,
+      "rank_evolucao": 6
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Brazil",
+      "last_value": 56.06,
+      "rank_valor_atual": 7,
+      "rank_evolucao": 3
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Mexico",
+      "last_value": 43.24,
+      "rank_valor_atual": 8,
+      "rank_evolucao": 4
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "India",
+      "last_value": 31.55,
+      "rank_valor_atual": 9,
+      "rank_evolucao": 1
+    },
+    {
+      "indicator": "matricula_terciaria_bruta_pct",
+      "country": "Nigeria",
+      "last_value": 10.56,
+      "rank_valor_atual": 10,
+      "rank_evolucao": 2
+    }
+  ],
+  "alertas": [
+    {
+      "country": "Nigeria",
+      "indicator": "matricula_secundaria_bruta_pct",
+      "year": 2023,
+      "value": 44.55,
+      "threshold": 60.0,
+      "rule": "valor abaixo de 60.0"
+    },
+    {
+      "country": "Nigeria",
+      "indicator": "alfabetizacao_adultos_pct",
+      "year": 2023,
+      "value": 63.6,
+      "threshold": 80.0,
+      "rule": "valor abaixo de 80.0"
+    },
+    {
+      "country": "India",
+      "indicator": "alfabetizacao_adultos_pct",
+      "year": 2023,
+      "value": 75.79,
+      "threshold": 80.0,
+      "rule": "valor abaixo de 80.0"
+    }
+  ]
+}

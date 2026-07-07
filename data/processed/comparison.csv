@@ -1,0 +1,11 @@
+country_code,country,alfabetizacao_adultos_pct,gasto_publico_educacao_pct_pib,matricula_primaria_bruta_pct,matricula_secundaria_bruta_pct,matricula_terciaria_bruta_pct
+ARG,Argentina,98.74,5.39,109.73,108.26,95.18
+BRA,Brazil,93.92,7.18,114.52,105.8,56.06
+CHL,Chile,96.08,5.7,100.65,101.64,91.53
+FIN,Finland,100.05,5.66,100.12,117.91,90.22
+IND,India,75.79,6.66,103.1,77.11,31.55
+KOR,"Korea, Rep.",99.23,5.3,98.23,98.83,98.85
+MEX,Mexico,96.44,5.2,105.75,87.72,43.24
+NGA,Nigeria,63.6,4.17,85.99,44.55,10.56
+PRT,Portugal,96.24,5.4,104.69,117.93,68.19
+USA,United States,98.51,5.34,101.32,98.31,88.21
